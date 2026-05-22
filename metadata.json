@@ -1,0 +1,6 @@
+{
+  "name": "Sparkle the Gallery",
+  "description": "An offline-first smart photo gallery that automatically recognizes text and objects in your photos. Search by labels like 'coffee cup' or written text instantly, copy extracted no[...]",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
